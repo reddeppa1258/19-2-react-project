@@ -1,0 +1,24 @@
+
+.new{
+   background-color:rgb(255,255,255);
+}
+.button{
+    background-color: white;
+    color:black;
+    height:35px;
+    width: 30px;
+    border-radius: 50px;
+   
+
+    border:1px solid aliceblue;
+    font-size: x-large;
+    padding-left: 150px;
+   
+    
+ }
+ .head{
+    padding-right:100px
+ }
+ .head1{
+    padding-right:180px
+ }

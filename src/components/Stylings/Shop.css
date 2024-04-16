@@ -1,0 +1,36 @@
+
+.banner{
+   
+    background-image: url('https://www.jiomart.com/images/product/original/rvwl506j0h/rylan-plastic-non-ticking-classic-digital-wall-clock-8-x-3-8-x-5-centimeters-product-images-orvwl506j0h-p601439831-3-202305130013.jpg?im=Resize=(1000,1000)');
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:700px;
+}
+.product{
+    padding-top: 400px;
+}
+.drop{
+    margin-top: 100px;
+}
+.carbody{
+    height:500px;
+    width:350px
+}
+.img{
+     height: 250px;
+      width: 200px;
+}
+.option{
+    height:100px;
+    width:100%;
+    
+}
+.select{
+    background-color: black;
+    color:white;
+}
+.bise{
+    position:relative;
+    left: -20px;
+}
+

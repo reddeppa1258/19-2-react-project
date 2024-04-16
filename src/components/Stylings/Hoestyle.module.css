@@ -1,0 +1,22 @@
+.backgroundSliderData{
+    background-color:rgb( 246,249,252) ;
+  
+  }
+  .slidertitle{
+    color: black;
+    margin-bottom: 40px;
+    margin-right: 400px;
+    
+  }
+  .sliderdesc{
+    color: black;
+    margin-bottom: 250px;
+    margin-left:-40px;
+    
+  }
+  .sliderbtn{
+    border: none;
+    margin-left: -750px;
+    background-color:#edf6d0d9;
+  }
+ 
